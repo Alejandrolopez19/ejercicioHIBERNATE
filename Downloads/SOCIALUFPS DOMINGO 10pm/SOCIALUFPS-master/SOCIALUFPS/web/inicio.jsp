@@ -92,6 +92,7 @@
                             <br>
                             <br>    
                             
+                            
                             <a href="post.jsp?codigo=<%=codigo%>" class="btn btn-success">Crear publibicacion</a>
                         </div>
                     </div>
